@@ -1,0 +1,8 @@
+#Python code to get the flag
+
+from PIL import Image
+import stepic
+
+im1 = Image.open('upz.png')
+s = stepic.decode(im1) 
+print(s)
