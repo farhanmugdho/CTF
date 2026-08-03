@@ -1,0 +1,11 @@
+Problem name: Flags are stepic
+
+Problem statement: A group of underground hackers might be using this legit site to communicate. Use your forensic techniques to uncover their message
+
+Link: http://standard-pizzas.picoctf.net:57233/
+
+Step 1: Click on "View page source" to get the source of the page and from there we will see that the country named Upanzi has all the hints including details of style
+
+Step 2: click on the stepic flag and you will find a photo upz.png
+
+Step 3: writing down the python code for this
